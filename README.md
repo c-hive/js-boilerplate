@@ -1,6 +1,6 @@
 # JavaScript Boilerplate
 
-#### A boilerplate that sets the grounds for any kind of JS development. More of the generic things, less of the specific things.
+#### A boilerplate that sets the grounds for any kind of JS development. More generic things, less specific things.
 
 It has
 - formatting
