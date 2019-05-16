@@ -1,11 +1,14 @@
 # JavaScript Boilerplate
 
-#### A boilerplate that sets the grounds for any kind of JS development. Less frameworks, more tools.
+#### A boilerplate that sets the grounds for any kind of JS development. More of the generic things, less of the specific things.
 
 It does
 - formatting
 - linting
 - editor options
+- gitignore
+- [~~npmignore~~ npm files](https://github.com/c-hive/guides/blob/master/js/package.md#what-to-include)
+- [dependency comments](https://github.com/c-hive/guides/blob/master/js/misc.md#comment-dependencies-in-the-packagejson)
 
 ## Conventions
 
