@@ -6,6 +6,7 @@ It has
 - formatting
 - linting
 - editor options
+- pre-commit hook
 - gitignore
 - [~~npmignore~~ npm files](https://github.com/c-hive/guides/blob/master/js/package.md#what-to-include)
 - [dependency comments](https://github.com/c-hive/guides/blob/master/js/misc.md#comment-dependencies-in-the-packagejson)
