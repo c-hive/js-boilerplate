@@ -2,7 +2,7 @@
 
 #### A boilerplate that sets the grounds for any kind of JS development. More of the generic things, less of the specific things.
 
-It does
+It has
 - formatting
 - linting
 - editor options
