@@ -17,4 +17,4 @@ This project follows [C-Hive guides](https://github.com/c-hive/guides) for code 
 
 ## License
 
-The boilerplate is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The project is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
