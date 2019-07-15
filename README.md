@@ -10,6 +10,7 @@ It has
 - gitignore
 - [~~npmignore~~ npm files](https://github.com/c-hive/guides/blob/master/js/package.md#what-to-include)
 - [dependency comments](https://github.com/c-hive/guides/blob/master/js/misc.md#comment-dependencies-in-the-packagejson)
+- dependency security fixes
 
 ## Conventions
 
