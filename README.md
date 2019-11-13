@@ -8,8 +8,8 @@ It has
 - editor options
 - pre-commit hook
 - gitignore
-- [~~npmignore~~ npm files](https://github.com/c-hive/guides/blob/master/js/package.md#what-to-include)
-- [dependency comments](https://github.com/c-hive/guides/blob/master/js/misc.md#comment-dependencies-in-the-packagejson)
+- [~~npmignore~~ npm files](https://github.com/c-hive/guides/blob/2d3e41b73515a571dd78576e02d2fd15fe786d9e/js/package.md#what-to-include)
+- [dependency comments](https://github.com/c-hive/guides/blob/2d3e41b73515a571dd78576e02d2fd15fe786d9e/js/best-practices.md#comment-dependencies-in-the-packagejson)
 - dependency security fixes
 
 ## Conventions
