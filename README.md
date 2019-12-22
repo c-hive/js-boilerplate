@@ -11,6 +11,7 @@ It has
 - [~~npmignore~~ npm files](https://github.com/c-hive/guides/blob/2d3e41b73515a571dd78576e02d2fd15fe786d9e/js/package.md#what-to-include)
 - [dependency comments](https://github.com/c-hive/guides/blob/2d3e41b73515a571dd78576e02d2fd15fe786d9e/js/best-practices.md#comment-dependencies-in-the-packagejson)
 - dependency security fixes
+- npm version requirement [to avoid `package-lock` ping-pong](https://github.com/c-hive/guides/blob/24ce093e59f89374ed2bf0a2e1fc5c45e5490044/js/best-practices.md#specify-npm-version-requirements-to-avoid-package-lock-ping-pong)
 
 ## Conventions
 
