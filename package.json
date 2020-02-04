@@ -25,6 +25,7 @@
   "dependencies": {},
   "//devDependencies": {
     "eslint*": "code style",
+    "pre-commit": "run scripts before each commit",
     "prettier": "code formatting"
   },
   "devDependencies": {
