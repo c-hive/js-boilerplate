@@ -2,7 +2,7 @@
   "name": "",
   "version": "0.1.0",
   "description": "",
-  "main": "./src/index.js",
+  "main": "",
   "scripts": {
     "test": "echo 'No test framework configured'",
     "lint": "eslint . --no-error-on-unmatched-pattern",
