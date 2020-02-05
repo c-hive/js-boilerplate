@@ -6,6 +6,7 @@ It has
 - formatting
 - linting
 - editor options
+- CI via native GitHub Actions
 - pre-commit hook
 - gitignore
 - [~~npmignore~~ npm files](https://github.com/c-hive/guides/blob/2d3e41b73515a571dd78576e02d2fd15fe786d9e/js/package.md#what-to-include)
