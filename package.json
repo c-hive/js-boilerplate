@@ -12,12 +12,7 @@
     "lint",
     "test"
   ],
-  "files": [
-    "/lib/**/*.js",
-    "!/lib/**/*.test.js",
-    "/lib/**/*.json",
-    "/lib/**/*.svg"
-  ],
+  "files": [],
   "keywords": [],
   "author": "",
   "license": "MIT",
