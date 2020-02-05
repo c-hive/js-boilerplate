@@ -19,7 +19,7 @@ jobs:
       uses: actions/cache@v1
       with:
         path: node_modules
-        key: ${{ runner.OS }}-node_modules-${{ hashFiles('**/package-lock.json')-${{ hashFiles('**/yarn.lock') }}
+        key: ${{ runner.OS }}-node_modules-${{ hashFiles('**/package-lock.json') }}-${{ hashFiles('**/yarn.lock') }}
         restore-keys: |
           ${{ runner.OS }}-node_modules-
     - name: Install JS dependencies
@@ -40,7 +40,7 @@ jobs:
       uses: actions/cache@v1
       with:
         path: node_modules
-        key: ${{ runner.OS }}-node_modules-${{ hashFiles('**/package-lock.json')-${{ hashFiles('**/yarn.lock') }}
+        key: ${{ runner.OS }}-node_modules-${{ hashFiles('**/package-lock.json') }}-${{ hashFiles('**/yarn.lock') }}
         restore-keys: |
           ${{ runner.OS }}-node_modules-
     - name: Install JS dependencies
