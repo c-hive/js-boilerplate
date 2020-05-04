@@ -2,7 +2,7 @@ module.exports = {
   extends: [
     "airbnb-base",
     // Only this is needed to integrate Prettier, see: https://github.com/prettier/eslint-plugin-prettier#recommended-configuration
-    "plugin:prettier/recommended",
+    "plugin:prettier/recommended"
   ],
   rules: {
     "linebreak-style": ["error", (process.platform === "win32" ? "windows" : "unix")], // https://stackoverflow.com/q/39114446/2771889
@@ -23,5 +23,6 @@ module.exports = {
         message: "`with` is disallowed in strict mode because it makes code impossible to predict and optimize.",
       },
     ],
+    "import/no-anonymous-default-export": "error"
   },
 };
