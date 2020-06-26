@@ -1,7 +1,6 @@
 module.exports = {
   extends: [
     "airbnb-base",
-    // Only this is needed to integrate Prettier, see: https://github.com/prettier/eslint-plugin-prettier#recommended-configuration
     "plugin:prettier/recommended",
   ],
   rules: {
