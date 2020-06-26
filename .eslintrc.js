@@ -23,5 +23,11 @@ module.exports = {
       },
     ],
     "import/no-anonymous-default-export": "error", // https://github.com/c-hive/guides/blob/a82e1b37ef662c8f8d7485793f99970080f40dca/js/best-practices.md#name-functions-when-exporting
+    "import/no-extraneous-dependencies": [ // https://stackoverflow.com/q/44939304/2771889
+      "error",
+      {
+        "devDependencies": ["**/*.test.js", "**/*.test.jsx"]
+      },
+    ],
   },
 };
