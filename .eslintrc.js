@@ -23,6 +23,6 @@ module.exports = {
         message: "`with` is disallowed in strict mode because it makes code impossible to predict and optimize.",
       },
     ],
-    "import/no-anonymous-default-export": "error",
+    "import/no-anonymous-default-export": "error", // https://github.com/c-hive/guides/blob/a82e1b37ef662c8f8d7485793f99970080f40dca/js/best-practices.md#name-functions-when-exporting
   },
 };
